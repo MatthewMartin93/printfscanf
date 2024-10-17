@@ -21,7 +21,7 @@ int main()
     printf("Name: %s\n", &name);
     printf("Age: %d\n", &age);
     printf("Initial: %s\n", &initial);
-    printf("Grade Average: %s\n", &avg);
+    printf("Grade Average: %0.2f\n", &avg);
 
 
 }
